@@ -1,6 +1,4 @@
 streamlit
+streamlit-echarts
 fastf1
 pandas
-plotly
-os
-streamlit-echarts
